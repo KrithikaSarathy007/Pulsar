@@ -1,4 +1,4 @@
-{
+{ 
   "name": "Driver",
   "type": "object",
   "properties": {
