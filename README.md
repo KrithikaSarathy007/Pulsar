@@ -6,7 +6,7 @@ An intelligent system that reduces ambulance response time by making traffic inf
 
 Open index.html in a browser
 
-Select start & destination for Ambulance A and B
+Select start & destination for Ambulance A and B 
 
 Set priorities (1 = critical)
 
