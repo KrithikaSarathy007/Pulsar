@@ -5,7 +5,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
   attribution: '© OpenStreetMap'
 }).addTo(map);
 
-// ---------------- MESSAGE HANDLER ----------------
+// ---------------- MESSAGE HANDLER ----------------   
 let messageTimeout = null;
 
 function showMessage(text, duration = 2000) {
